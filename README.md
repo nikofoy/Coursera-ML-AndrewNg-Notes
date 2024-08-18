@@ -28,8 +28,6 @@
 
 2018-3-26 夜
 
-微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
-[我的知乎](https://www.zhihu.com/people/fengdu78/activities)
 
 参考：
 
@@ -358,8 +356,4 @@
 19.1 总结和致谢 
 
 ------
-
-
-
-**机器学习qq群：955171419（我们有13个群，加过一个就不需要加了）** 
 
